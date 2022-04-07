@@ -1,0 +1,4 @@
+this is third file
+cat > filename creates a new file
+cat filename1 filename2>filename3 joins two files (1 and 2) and stores the output of them in a new file (3)
+to convert a file to upper or lower case use, cat filename | tr a-z A-Z >output.txt
