@@ -1,0 +1,3 @@
+this is fourth file
+ cp command
+Use the cp command to copy files from the current directory to a different directory. For instance, the command cp scenery.jpg /home/username/Pictures would create a copy of scenery.jpg (from your current directory) into the Pictures directory.
