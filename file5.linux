@@ -1,0 +1,7 @@
+this is fifth file
+mv command
+The primary use of the mv command is to move files, although it can also be used to rename files.
+
+The arguments in mv are similar to the cp command. You need to type mv, the file’s name, and the destination’s directory. For example: mv file.txt /home/username/Documents.
+
+To rename files, the Linux command is mv oldname.ext newname.ext
